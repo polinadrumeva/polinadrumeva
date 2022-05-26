@@ -11,7 +11,9 @@
 - 💬 Ask me about everything.
 - 📫 How to reach me: polina9230@gmail.com
 
-<p>
-  <img height="120em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinadrumeva&langs_count=8&layout=compact&hide_border=true&bg_color=000000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-  
-</p>
+### GitHub Stats
+
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=polinadrumeva&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polinadrumeva&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+>
