@@ -5,7 +5,7 @@
 
 - 🌱 I’m learning Web Development with C#
 - 💻 I fell in love to coding from the first moment.
-- ⚡ Fun fact: I graduated law and I was а lawyer.
+- ⚡ Fun fact: I graduated law and I'm а lawyer.
 - 📫 How to reach me: polina9230@gmail.com
 
    <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
